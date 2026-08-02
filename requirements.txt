@@ -1,0 +1,9 @@
+langgraph
+langchain
+transformers
+torch
+sentence-transformers
+faiss-cpu
+numpy
+pytest
+accelerate
